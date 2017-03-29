@@ -1,0 +1,20 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/EasyMVC/Easy.BLL/bin
+/EasyMVC/Easy.BLL/obj
+/EasyMVC/Easy.Common/bin
+/EasyMVC/Easy.Common/obj
+/EasyMVC/Easy.DAL/bin
+/EasyMVC/Easy.DAL/obj
+/EasyMVC/Easy.IBLL/bin
+/EasyMVC/Easy.IBLL/obj
+/EasyMVC/Easy.IDAL/bin
+/EasyMVC/Easy.IDAL/obj
+/EasyMVC/Easy.Models/bin
+/EasyMVC/Easy.Models/obj
+/EasyMVC/Easy.Web/bin
+/EasyMVC/Easy.Web/obj
+/EasyMVC/.vs
+/EasyMVC/packages
